@@ -1,5 +1,4 @@
 ---
-title:  ようこそ！僕のテストページです
-date: 2023-01-30
+title: Welcome to my blog
 ---
 
